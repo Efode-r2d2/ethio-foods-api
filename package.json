@@ -1,0 +1,11 @@
+{
+  "name": "ethio-foods-api",
+  "version": "1.0.0",
+  "description": "Open api which will be used to manage Ethiopian foods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Efriem Desalew",
+  "license": "MIT"
+}
