@@ -4,7 +4,8 @@
   "description": "Open api which will be used to manage Ethiopian foods",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node backend/index.js",
+    "server": "nodemon backend/index.js"
   },
   "author": "Efriem Desalew",
   "license": "MIT",
